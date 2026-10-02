@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>COA Library</title>
+<style>
+  :root { --bg:#fff; --fg:#1d1d1f; --muted:#6b6b70; --line:#e3e3e8; --accent:#1a5fb4; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#16161a; --fg:#ececf1; --muted:#9a9aa3; --line:#2e2e35; --accent:#78aeed; } }
+  body { margin:0; padding:24px 16px; background:var(--bg); color:var(--fg); font:15px/1.5 system-ui,sans-serif; }
+  main { max-width:860px; margin:0 auto; }
+  .teaser { font-size:1.05rem; padding:12px 14px; border:1px solid var(--line); border-radius:8px; }
+  .wrap { overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; margin-top:16px; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); white-space:nowrap; }
+  th { color:var(--muted); font-weight:600; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <p class="teaser" id="teaser"><strong><span id="published-count">16</span> published COAs</strong> &middot; mean purity <strong><span id="mean-purity">99.03</span> %</strong></p>
+  <h1>Certificate of Analysis library</h1>
+  <p>Published products only, newest test date first.</p>
+  <div class="wrap">
+  <table>
+    <thead><tr><th>Product</th><th>Batch</th><th>Test date</th><th>Purity</th><th>COA PDF</th></tr></thead>
+    <tbody>
+      <tr><td>CJC-1295 (no DAC)</td><td>PP-2607-003</td><td>2026-09-04</td><td>98.6 %</td><td><a href="coa/scan_4025.pdf">scan_4025.pdf</a></td></tr>
+      <tr><td>Sermorelin</td><td>PP-2608-006</td><td>2026-08-12</td><td>99.3 %</td><td><a href="coa/scan_9656.pdf">scan_9656.pdf</a></td></tr>
+      <tr><td>Gonadorelin</td><td>PP-2607-011</td><td>2026-07-27</td><td>98.9 %</td><td><a href="coa/scan_1584.pdf">scan_1584.pdf</a></td></tr>
+      <tr><td>AOD-9604</td><td>PP-2607-005</td><td>2026-07-21</td><td>99.5 %</td><td><a href="coa/NVL-26-1686.pdf">NVL-26-1686.pdf</a></td></tr>
+      <tr><td>Semax</td><td>PP-2607-002</td><td>2026-07-11</td><td>99.2 %</td><td><a href="coa/MAL-26-4050.pdf">MAL-26-4050.pdf</a></td></tr>
+      <tr><td>BPC-157</td><td>PP-2606-004</td><td>2026-06-18</td><td>99.3 %</td><td><a href="coa/MAL-26-8411.pdf">MAL-26-8411.pdf</a></td></tr>
+      <tr><td>Tesamorelin</td><td>PP-2605-014</td><td>2026-05-14</td><td>98.1 %</td><td><a href="coa/scan_2034.pdf">scan_2034.pdf</a></td></tr>
+      <tr><td>Selank</td><td>PP-2605-009</td><td>2026-05-08</td><td>99.3 %</td><td><a href="coa/MAL-26-8794.pdf">MAL-26-8794.pdf</a></td></tr>
+      <tr><td>LL-37</td><td>PP-2604-031</td><td>2026-04-22</td><td>99.0 %</td><td><a href="coa/MAL-26-8421.pdf">MAL-26-8421.pdf</a></td></tr>
+      <tr><td>Ipamorelin</td><td>PP-2604-021</td><td>2026-04-15</td><td>99.0 %</td><td><a href="coa/MAL-26-9320.pdf">MAL-26-9320.pdf</a></td></tr>
+      <tr><td>Thymosin Alpha-1</td><td>PP-2603-017</td><td>2026-03-24</td><td>98.6 %</td><td><a href="coa/MAL-26-5970.pdf">MAL-26-5970.pdf</a></td></tr>
+      <tr><td>TB-500</td><td>PP-2603-011</td><td>2026-03-10</td><td>99.1 %</td><td><a href="coa/MAL-26-8629.pdf">MAL-26-8629.pdf</a></td></tr>
+      <tr><td>Epitalon</td><td>PP-2602-008</td><td>2026-02-27</td><td>99.6 %</td><td><a href="coa/MAL-26-9387.pdf">MAL-26-9387.pdf</a></td></tr>
+      <tr><td>Hexarelin</td><td>PP-2602-007</td><td>2026-02-18</td><td>98.0 %</td><td><a href="coa/MAL-26-1245.pdf">MAL-26-1245.pdf</a></td></tr>
+      <tr><td>Kisspeptin-10</td><td>PP-2511-002</td><td>2025-11-05</td><td>99.2 %</td><td><a href="coa/NVL-26-7490.pdf">NVL-26-7490.pdf</a></td></tr>
+      <tr><td>Oxytocin</td><td>PP-2509-004</td><td>2025-09-30</td><td>99.7 %</td><td><a href="coa/scan_1975.pdf">scan_1975.pdf</a></td></tr>
+    </tbody>
+  </table>
+  </div>
+</main>
+</body>
+</html>

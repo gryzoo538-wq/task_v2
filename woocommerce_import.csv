@@ -1,0 +1,25 @@
+SKU,Name,Regular price,Status,coa_batch,coa_test_date,coa_purity,coa_size_mg,coa_pdf,coa_url,status_reason
+P01,BPC-157,49.00,publish,PP-2606-004,2026-06-18,99.3,5,MAL-26-8411.pdf,https://example-store.test/coa/p01-pp-2606-004/,all publish conditions met
+P02,TB-500,59.00,publish,PP-2603-011,2026-03-10,99.1,5,MAL-26-8629.pdf,https://example-store.test/coa/p02-pp-2603-011/,all publish conditions met
+P03,GHK-Cu,69.00,draft,,2026-05-22,98.7,50,MAL-26-8402.pdf,,missing field
+P04,Ipamorelin,55.00,publish,PP-2604-021,2026-04-15,99.0,5,MAL-26-9320.pdf,https://example-store.test/coa/p04-pp-2604-021/,all publish conditions met
+P05,CJC-1295 (no DAC),45.00,publish,PP-2607-003,2026-09-04,98.6,2,scan_4025.pdf,https://example-store.test/coa/p05-pp-2607-003/,all publish conditions met
+P06,Epitalon,39.00,publish,PP-2602-008,2026-02-27,99.6,10,MAL-26-9387.pdf,https://example-store.test/coa/p06-pp-2602-008/,all publish conditions met
+P07,Selank,42.00,publish,PP-2605-009,2026-05-08,99.3,5,MAL-26-8794.pdf,https://example-store.test/coa/p07-pp-2605-009/,all publish conditions met
+P08,Semax,44.00,publish,PP-2607-002,2026-07-11,99.2,5,MAL-26-4050.pdf,https://example-store.test/coa/p08-pp-2607-002/,all publish conditions met
+P09,MOTS-c,79.00,draft,PP-2605-006,2026-05-30,97.4,10,MAL-26-8316.pdf,https://example-store.test/coa/p09-pp-2605-006/,purity below 98.0
+P10,Thymosin Alpha-1,89.00,publish,PP-2603-017,2026-03-24,98.6,5,MAL-26-5970.pdf,https://example-store.test/coa/p10-pp-2603-017/,all publish conditions met
+P11,PT-141,52.00,draft,PP-2508-009,2025-08-14,99.0,10,NVL-26-3323.pdf,https://example-store.test/coa/p11-pp-2508-009/,COA older than 12 months
+P12,DSIP,36.00,draft,PP-2604-013,2026-04-09,98.4,5,NVL-26-2485.pdf,https://example-store.test/coa/p12-pp-2604-013/,identity failed
+P13,KPV,34.00,draft,PP-2606-010,2026-06-03,98.8,10,NVL-26-9825.pdf,https://example-store.test/coa/p13-pp-2606-010/,size conflict
+P14,AOD-9604,64.00,publish,PP-2607-005,2026-07-21,99.5,5,NVL-26-1686.pdf,https://example-store.test/coa/p14-pp-2607-005/,all publish conditions met
+P15,Kisspeptin-10,58.00,publish,PP-2511-002,2025-11-05,99.2,2,NVL-26-7490.pdf,https://example-store.test/coa/p15-pp-2511-002/,all publish conditions met
+P16,LL-37,96.00,publish,PP-2604-031,2026-04-22,99.0,5,MAL-26-8421.pdf,https://example-store.test/coa/p16-pp-2604-031/,all publish conditions met
+P17,GHRP-6,41.00,draft,,,,,,,no COA for listed batch
+P18,Hexarelin,47.00,publish,PP-2602-007,2026-02-18,98.0,5,MAL-26-1245.pdf,https://example-store.test/coa/p18-pp-2602-007/,all publish conditions met
+P19,Sermorelin,53.00,publish,PP-2608-006,2026-08-12,99.3,5,scan_9656.pdf,https://example-store.test/coa/p19-pp-2608-006/,all publish conditions met
+P20,Tesamorelin,84.00,publish,PP-2605-014,2026-05-14,98.1,10,scan_2034.pdf,https://example-store.test/coa/p20-pp-2605-014/,all publish conditions met
+P21,Oxytocin,38.00,publish,PP-2509-004,2025-09-30,99.7,5,scan_1975.pdf,https://example-store.test/coa/p21-pp-2509-004/,all publish conditions met
+P22,Gonadorelin,57.00,publish,PP-2607-011,2026-07-27,98.9,5,scan_1584.pdf,https://example-store.test/coa/p22-pp-2607-011/,all publish conditions met
+P23,Dihexa,61.00,draft,PP-2606-003,2026-06-09,99.1,5,scan_4116.pdf,https://example-store.test/coa/p23-pp-2606-003/,identity failed
+P24,Humanin,72.00,draft,,,,,,,no COA

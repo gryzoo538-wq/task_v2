@@ -1,0 +1,32 @@
+pdf_file,lab,report_id,source,product,declared_amount_raw,declared_amount_mg,batch,test_date_raw,test_date,purity_raw,purity_pct,theoretical_mass_da,observed_mass_da,mass_diff_da,valid,notes
+MAL-26-1245.pdf,MAL,MAL-26-1245,text layer,Hexarelin,5 mg per vial,5,PP-2512-014,2025-12-09,2025-12-09,98.7 %,98.7,887.0,887.3,0.3,yes,multi-batch COA row; not used
+MAL-26-1245.pdf,MAL,MAL-26-1245,text layer,Hexarelin,5 mg per vial,5,PP-2602-007,2026-02-18,2026-02-18,98.0 %,98.0,887.0,887.1,0.1,yes,multi-batch COA row; used for P18
+MAL-26-1245.pdf,MAL,MAL-26-1245,text layer,Hexarelin,5 mg per vial,5,PP-2603-012,2026-03-19,2026-03-19,99.2 %,99.2,887.0,886.8,0.2,yes,multi-batch COA row; not used
+MAL-26-3580.pdf,MAL,MAL-26-3580,text layer,GHRP-6,5 mg per vial,5,PP-2605-018,2026-05-12,2026-05-12,99.1 %,99.1,873.0,873.2,0.2,yes,multi-batch COA row; not used: does not match listed batch of P17 (rule 5)
+MAL-26-3580.pdf,MAL,MAL-26-3580,text layer,GHRP-6,5 mg per vial,5,PP-2605-020,2026-05-26,2026-05-26,98.9 %,98.9,873.0,873.4,0.4,yes,multi-batch COA row; not used: does not match listed batch of P17 (rule 5)
+MAL-26-3580.pdf,MAL,MAL-26-3580,text layer,GHRP-6,5 mg per vial,5,PP-2606-021,2026-06-16,2026-06-16,99.3 %,99.3,873.0,872.9,0.1,yes,multi-batch COA row; not used: does not match listed batch of P17 (rule 5)
+MAL-26-4050.pdf,MAL,MAL-26-4050,text layer,Semax,5 mg per vial,5,PP-2607-002,2026-07-11,2026-07-11,99.2 %,99.2,813.9,814.2,0.3,yes,used for P08
+MAL-26-4111.pdf,MAL,MAL-26-4111,text layer,CJC-1295 (no DAC),2 mg per vial,2,PP-2607-003,2026-07-02,2026-07-02,98.2 %,98.2,3367.9,3367.5,0.4,yes,not used
+MAL-26-5970.pdf,MAL,MAL-26-5970,text layer,Thymosin Alpha-1,5 mg per vial,5,PP-2603-017,2026-03-24,2026-03-24,98.6 %,98.6,3108.3,3108.9,0.6,yes,used for P10
+MAL-26-8316.pdf,MAL,MAL-26-8316,text layer,MOTS-c,10 mg per vial,10,PP-2605-006,2026-05-30,2026-05-30,97.4 %,97.4,2174.6,2174.9,0.3,yes,used for P09
+MAL-26-8402.pdf,MAL,MAL-26-8402,text layer,GHK-Cu,50 mg per vial,50,,2026-05-22,2026-05-22,98.7 %,98.7,403.9,404.1,0.2,yes,batch blank on COA; used for P03
+MAL-26-8411.pdf,MAL,MAL-26-8411,text layer,BPC-157,5 mg per vial,5,PP-2606-004,2026-06-18,2026-06-18,99.3 %,99.3,1419.5,1419.8,0.3,yes,used for P01
+MAL-26-8421.pdf,MAL,MAL-26-8421,text layer,LL-37,5 mg per vial,5,PP-2603-028,2026-03-30,2026-03-30,97.1 %,97.1,4493.3,4493.9,0.6,yes,multi-batch COA row; not used
+MAL-26-8421.pdf,MAL,MAL-26-8421,text layer,LL-37,5 mg per vial,5,PP-2604-031,2026-04-22,2026-04-22,99.0 %,99.0,4493.3,4493.5,0.2,yes,multi-batch COA row; used for P16
+MAL-26-8421.pdf,MAL,MAL-26-8421,text layer,LL-37,5 mg per vial,5,PP-2606-040,2026-06-30,2026-06-30,99.4 %,99.4,4493.3,4493.1,0.2,yes,multi-batch COA row; not used
+MAL-26-8629.pdf,MAL,MAL-26-8629,text layer,TB-500,5 mg per vial,5,PP-2603-011,,,99.1 %,99.1,4963.5,4963.9,0.4,yes,test date blank on COA; used for P02
+MAL-26-8794.pdf,MAL,MAL-26-8794,text layer,Selank,5 mg per vial,5,PP-2605-009,2026-05-08,2026-05-08,99.3 %,99.3,751.9,752.0,0.1,yes,used for P07
+MAL-26-9320.pdf,MAL,MAL-26-9320,text layer,Ipamorelin,5 mg per vial,5,PP-2604-021,2026-04-15,2026-04-15,99.0 %,99.0,711.9,712.2,0.3,yes,used for P04
+MAL-26-9387.pdf,MAL,MAL-26-9387,text layer,Epitalon,10 mg per vial,10,PP-2602-008,2026-02-27,2026-02-27,99.6 %,99.6,390.4,390.6,0.2,yes,used for P06
+NVL-26-1686.pdf,NVL,NVL-26-1686,text layer,AOD-9604,5000 µg,5,PP-2607-005,21/07/2026,2026-07-21,"99,5 %",99.5,1815.1,1815.4,0.3,yes,Novalab: DD/MM/YYYY date and decimal comma converted; used for P14
+NVL-26-2485.pdf,NVL,NVL-26-2485,text layer,DSIP,5 mg,5,PP-2604-013,09/04/2026,2026-04-09,"98,4 %",98.4,848.8,851.3,2.5,yes,Novalab: DD/MM/YYYY date and decimal comma converted; used for P12
+NVL-26-3323.pdf,NVL,NVL-26-3323,text layer,PT-141,10000 µg,10,PP-2508-009,14/08/2025,2025-08-14,"99,0 %",99.0,1025.2,1025.5,0.3,yes,Novalab: DD/MM/YYYY date and decimal comma converted; used for P11
+NVL-26-7490.pdf,NVL,NVL-26-7490,text layer,Kisspeptin-10,2 mg,2,PP-2511-002,05/11/2025,2025-11-05,"99,2 %",99.2,1302.5,1302.7,0.2,yes,Novalab: DD/MM/YYYY date and decimal comma converted; used for P15
+NVL-26-9825.pdf,NVL,NVL-26-9825,text layer,KPV,"0,01 g",10,PP-2606-010,03/06/2026,2026-06-03,"98,8 %",98.8,341.4,341.6,0.2,yes,Novalab: DD/MM/YYYY date and decimal comma converted; used for P13
+scan_1584.pdf,MAL,scan_1584,scan (read visually),Gonadorelin,5 mg per vial,5,,2026-07-27,2026-07-27,98.9 %,98.9,1182.3,1182.0,0.3,yes,batch blank on COA; used for P22
+scan_1975.pdf,MAL,scan_1975,scan (read visually),Oxytocin,5 mg per vial,5,PP-2509-004,2025-09-30,2025-09-30,99.7 %,99.7,1007.2,1007.5,0.3,yes,used for P21
+scan_2034.pdf,MAL,scan_2034,scan (read visually),Tesamorelin,10 mg per vial,10,PP-2605-014,2026-05-14,2026-05-14,98.1 %,98.1,5135.9,5136.9,1.0,yes,used for P20
+scan_2542.pdf,MAL,scan_2542,scan (read visually),Semax,5 mg per vial,5,PP-2607-002,2026-08-20,2026-08-20,96.0 %,96.0,813.9,814.0,0.1,no,stamped VOID - SUPERSEDED: invalid (rule 4); not used
+scan_4025.pdf,MAL,scan_4025,scan (read visually),CJC-1295 (no DAC),2 mg per vial,2,PP-2607-003,2026-09-04,2026-09-04,98.6 %,98.6,3367.9,3368.0,0.1,yes,report type: re-analysis; used for P05
+scan_4116.pdf,MAL,scan_4116,scan (read visually),Dihexa,5 mg per vial,5,PP-2606-003,2026-06-09,2026-06-09,99.1 %,99.1,546.7,548.1,1.4,yes,used for P23
+scan_9656.pdf,MAL,scan_9656,scan (read visually),Sermorelin,5 mg per vial,5,PP-2608-006,2026-08-12,2026-08-12,99.3 %,99.3,3357.9,3357.6,0.3,yes,used for P19

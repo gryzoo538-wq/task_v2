@@ -1,0 +1,8 @@
+pdf_file,report_type,product,declared_amount_raw,batch,test_date_raw,purity_raw,theoretical_mass_raw,observed_mass_raw,stamp
+scan_1584.pdf,,Gonadorelin,5 mg per vial,,2026-07-27,98.9 %,1182.3 Da,1182.0 Da,
+scan_1975.pdf,,Oxytocin,5 mg per vial,PP-2509-004,2025-09-30,99.7 %,1007.2 Da,1007.5 Da,
+scan_2034.pdf,,Tesamorelin,10 mg per vial,PP-2605-014,2026-05-14,98.1 %,5135.9 Da,5136.9 Da,
+scan_2542.pdf,,Semax,5 mg per vial,PP-2607-002,2026-08-20,96.0 %,813.9 Da,814.0 Da,VOID - SUPERSEDED
+scan_4025.pdf,re-analysis,CJC-1295 (no DAC),2 mg per vial,PP-2607-003,2026-09-04,98.6 %,3367.9 Da,3368.0 Da,
+scan_4116.pdf,,Dihexa,5 mg per vial,PP-2606-003,2026-06-09,99.1 %,546.7 Da,548.1 Da,
+scan_9656.pdf,,Sermorelin,5 mg per vial,PP-2608-006,2026-08-12,99.3 %,3357.9 Da,3357.6 Da,
